@@ -1,8 +1,8 @@
-# ERE-LLM: Entity–Relation Extraction with Large Language Models
+# ERE-LLM: Entity-Relation Extraction With Large Language Model in Professional Domains
 
 This repository contains the official implementation of **ERE-LLM**, a three-stage large language model (LLM) framework for entity–relation extraction in professional domains, as described in our paper:
 
-**ERE-LLM: Entity–Relation Extraction with Large Language Models in Professional Domains**
+**ERE-LLM: Entity-Relation Extraction With Large Language Model in Professional Domains**
 
 The framework consists of three stages—**Germination**, **Growth**, and **Maturation**—designed to improve coverage, semantic grounding, and hallucination mitigation in LLM-based information extraction.
 
